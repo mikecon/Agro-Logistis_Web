@@ -1,0 +1,12 @@
+{
+  "name": "AgroLogistis_Web",
+  "version": "1.0.0",
+  "rules": {
+    "eqeqeq": "off",
+    "curly": "warn",
+    "quotes": ["warn", "double"]
+  },
+  "dependencies": {
+    
+  }
+}
